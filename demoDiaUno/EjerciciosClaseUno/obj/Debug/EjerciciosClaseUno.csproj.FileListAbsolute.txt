@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\bin\Debug\EjerciciosClaseUno.exe.config
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\bin\Debug\EjerciciosClaseUno.exe
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\bin\Debug\EjerciciosClaseUno.pdb
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\obj\Debug\EjerciciosClaseUno.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\obj\Debug\EjerciciosClaseUno.exe
+C:\Users\Alumno\Desktop\demoDiaUno\EjerciciosClaseUno\obj\Debug\EjerciciosClaseUno.pdb

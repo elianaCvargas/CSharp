@@ -1,0 +1,8 @@
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\DemoSwitch\bin\Debug\DemoSwitch.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\DemoSwitch\bin\Debug\DemoSwitch.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\DemoSwitch\bin\Debug\DemoSwitch.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\DemoSwitch\obj\Debug\DemoSwitch.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\DemoSwitch\obj\Debug\DemoSwitch.pdb
+C:\Users\Alumno\Desktop\demoDiaUno\DemoSwitch\bin\Debug\DemoSwitch.exe.config
+C:\Users\Alumno\Desktop\demoDiaUno\DemoSwitch\obj\Debug\DemoSwitch.exe
+C:\Users\Alumno\Desktop\demoDiaUno\DemoSwitch\obj\Debug\DemoSwitch.pdb

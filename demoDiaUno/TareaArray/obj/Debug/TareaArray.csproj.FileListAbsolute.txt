@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\demoDiaUno\TareaArray\bin\Debug\TareaArray.exe.config
+C:\Users\Alumno\Desktop\demoDiaUno\TareaArray\bin\Debug\TareaArray.exe
+C:\Users\Alumno\Desktop\demoDiaUno\TareaArray\bin\Debug\TareaArray.pdb
+C:\Users\Alumno\Desktop\demoDiaUno\TareaArray\obj\Debug\TareaArray.exe
+C:\Users\Alumno\Desktop\demoDiaUno\TareaArray\obj\Debug\TareaArray.pdb

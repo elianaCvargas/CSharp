@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\bin\Debug\demoDiaUno.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\bin\Debug\demoDiaUno.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\bin\Debug\demoDiaUno.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\obj\Debug\demoDiaUno.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\obj\Debug\demoDiaUno.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoDiaUno\demoDiaUno\obj\Debug\demoDiaUno.pdb
