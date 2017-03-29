@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\bin\Debug\demoRelaciones.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\bin\Debug\demoRelaciones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\bin\Debug\demoRelaciones.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\obj\Debug\demoRelaciones.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\obj\Debug\demoRelaciones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\demoRelaciones\demoRelaciones\obj\Debug\demoRelaciones.pdb
