@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------------
+Objetivo: comprender el funcionamiento de un constructor por defecto, this, relacion de composición.
+
+-------------------------------------------------------------------------------------
+A. inicialización del objeto
+
+Crear la clase publica Rueda, con un atributo de tipo String llamado marca y el atributo de tipo int tamaño.
+Crear un objeto en el MAIN , inspeccionar los atributos y verificar que el string está en null y el tamaño en 0.
+
+B. Modificación de valores por defecto.
+Crear un constructor por defecto sin código en su implementación.
+Verificar ejecutando paso a paso que ingresa al constructor.
+Modificar el atributo “This. Marca” dentro del constructor por defecto con el texto “Sin Marca”.
+Verificar ejecutando paso a paso que ingresa al constructor y que modifica el atributo.
+Crear 3 objetos RUEDA y ejecutar pasó a paso verificando el ingreso al constructor por defecto.
+
