@@ -1,0 +1,6 @@
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\bin\Debug\ejercicio2Avion.exe.config
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\obj\Debug\ejercicio2Avion.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\bin\Debug\ejercicio2Avion.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\bin\Debug\ejercicio2Avion.pdb
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\obj\Debug\ejercicio2Avion.exe
+C:\Users\Alumno\Documents\Visual Studio 2012\Projects\tareaClase4\ejercicio2Avion\obj\Debug\ejercicio2Avion.pdb

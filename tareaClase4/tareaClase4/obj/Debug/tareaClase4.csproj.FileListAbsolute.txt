@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\bin\Debug\tareaClase4.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\obj\Debug\tareaClase4.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\bin\Debug\tareaClase4.exe
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\bin\Debug\tareaClase4.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\obj\Debug\tareaClase4.exe
+c:\users\alumno\documents\visual studio 2012\Projects\tareaClase4\tareaClase4\obj\Debug\tareaClase4.pdb
