@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\bin\Debug\DemoExcepciones.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\bin\Debug\DemoExcepciones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\bin\Debug\DemoExcepciones.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\obj\Debug\DemoExcepciones.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\obj\Debug\DemoExcepciones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoExcepciones\obj\Debug\DemoExcepciones.pdb

@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\bin\Debug\DemoPolimorfismo.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\bin\Debug\DemoPolimorfismo.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\bin\Debug\DemoPolimorfismo.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\obj\Debug\DemoPolimorfismo.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\obj\Debug\DemoPolimorfismo.exe
+c:\users\alumno\documents\visual studio 2012\Projects\DemoHerencia\DemoPolimorfismo\obj\Debug\DemoPolimorfismo.pdb
