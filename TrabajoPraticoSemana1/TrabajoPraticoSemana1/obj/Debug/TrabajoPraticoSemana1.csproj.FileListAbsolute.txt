@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\bin\Debug\TrabajoPraticoSemana1.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\obj\Debug\TrabajoPraticoSemana1.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\bin\Debug\TrabajoPraticoSemana1.exe
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\bin\Debug\TrabajoPraticoSemana1.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\obj\Debug\TrabajoPraticoSemana1.exe
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\TrabajoPraticoSemana1\obj\Debug\TrabajoPraticoSemana1.pdb

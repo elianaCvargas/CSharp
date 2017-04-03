@@ -1,0 +1,12 @@
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.exe
+c:\users\alumno\documents\visual studio 2012\Projects\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.pdb
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe.config
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.exe
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.pdb
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.pdb
+C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.csprojResolveAssemblyReference.cache
