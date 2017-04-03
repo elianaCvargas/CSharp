@@ -1,0 +1,33 @@
+﻿@{
+    Page.Title = "Escriba el título aquí";
+    Layout = "_Layout.cshtml";
+
+    Persona per1 = new Persona("Lisandro", 3256242);
+    Persona per2 = new Persona("Ivan", 2135423);
+    Persona per3 = new Persona("Agustin", 2342315);
+
+    List<Persona> listita = new List<Persona>() { per1, per2, per3 };
+    
+}
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Titulo</title></head>
+<body>
+    <table>
+        <tr>
+            <td>Nombre</td>
+            <td>Dni</td>
+        </tr>
+
+        @foreach (Persona item in listita)
+        {
+            <tr>
+                <td>@item.nombre</td>
+                <td>@item.dni</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

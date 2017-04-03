@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSingleton3", "DemoSingleton3\DemoSingleton3.csproj", "{D58D3B4C-C36B-49A9-A574-A8027B5E7ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonCalculardora", "SingletonCalculardora\SingletonCalculardora.csproj", "{1A0B18E6-380A-4F52-8FC1-0BEB817DCA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginaWeb1", "PaginaWeb1\PaginaWeb1.csproj", "{D14123CC-454D-4C0E-B4EA-B4453F9849B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58D3B4C-C36B-49A9-A574-A8027B5E7ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58D3B4C-C36B-49A9-A574-A8027B5E7ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58D3B4C-C36B-49A9-A574-A8027B5E7ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58D3B4C-C36B-49A9-A574-A8027B5E7ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0B18E6-380A-4F52-8FC1-0BEB817DCA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0B18E6-380A-4F52-8FC1-0BEB817DCA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0B18E6-380A-4F52-8FC1-0BEB817DCA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0B18E6-380A-4F52-8FC1-0BEB817DCA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14123CC-454D-4C0E-B4EA-B4453F9849B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14123CC-454D-4C0E-B4EA-B4453F9849B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14123CC-454D-4C0E-B4EA-B4453F9849B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14123CC-454D-4C0E-B4EA-B4453F9849B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

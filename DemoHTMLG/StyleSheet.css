@@ -1,0 +1,20 @@
+﻿body {
+    color: #1489ed;
+    background-color: green;
+}
+
+#Gabisdiv {
+    color: cornflowerblue;
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Comic Sans MS';
+    border: double;
+}
+
+table {
+    border: solid;
+}
+
+td {
+    border: solid;
+}
