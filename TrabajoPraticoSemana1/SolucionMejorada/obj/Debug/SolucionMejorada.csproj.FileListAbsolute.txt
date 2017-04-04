@@ -10,3 +10,9 @@ C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\So
 C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe
 C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.pdb
 C:\Users\CarlaEliana\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe.config
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.exe
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.pdb
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.exe
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\bin\Debug\SolucionMejorada.pdb
+C:\Users\Alumno\Desktop\TrabajoPraticoSemana1\SolucionMejorada\obj\Debug\SolucionMejorada.csprojResolveAssemblyReference.cache

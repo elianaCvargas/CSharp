@@ -37,34 +37,43 @@ namespace SolucionMejorada
 
        
 
-        //VENTA MANUFACTURA
-        public void vender(Manufactura manufactura, Clientes cliente)
+        //VENDER
+        public void vender(Manufactura manufactura, Clientes cliente, int cantidad)
         {
-            if (compararDataM(manufactura.getTipo()) == true)
+            if (listaClientes.Contains(cliente))
             {
-                Console.WriteLine("hola");     
+                if (listaManufactura.Contains(manufactura))
+                {
+                    //Console.WriteLine("El cliente existe");
+                    if (manufactura is Manufactura)
+                    {
+                        //Console.WriteLine("Lo  que pide es  una manufactura");
+                        int pos = listaManufactura.IndexOf(manufactura);
+                        Manufactura auxManufactura = listaManufactura[pos];
+                        if (auxManufactura.getStock() > cantidad)
+                        {
+                            float totalPrecio;
+                            totalPrecio = cantidad * manufactura.getCosto();
+                            Console.WriteLine("*****************Factura*********************");
+                            Console.WriteLine("Cliente: {0}\n Pedido: {1}    Cantidad: {2}\n Precio total: {3}", cliente.getNombre(), manufactura.getName(), cantidad, totalPrecio);
+                        }
+
+                    }
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
             }
-            else
-            
-                if (compararDataC(cliente.getRestrciccion()))
-                {
-                    Console.WriteLine("success");
-                }
-            
-            else
-            
-                if (compararDataIva(cliente.getSituacionIva()) == 0)
-                {
-                    Console.WriteLine("NO tiene IVA");
-                }
-                if (compararDataIva(cliente.getSituacionIva()) == 1)
-                {
-                    Console.WriteLine("Tiene IVA");
-                }
-                if (compararDataIva(cliente.getSituacionIva()) == 2)
-                {
-                    Console.WriteLine("INSCRIPTO");
-                }
                 
             
             

@@ -13,20 +13,18 @@ namespace SolucionMejorada
 
             Empresa empresa = new Empresa();
             Manufactura manu = new Manufactura("Heladera", 3000,20, "M");
+            Servicios servi = new Servicios("HTML",  5000, "S"  );
+            
             //Manufactura manu2 = new Manufactura("Lavarropas", 4500);
            
 
             Clientes cliente = new Clientes("Eliana", "Habilitado", "excento");
-            //Console.WriteLine(manu2.getName());
+            
+            
             empresa.asignarALista(manu);
-            //empresa.asignarALista(manu2);
-            //empresa.vender(manu);
-            empresa.mostrarListaManufacturas();
-
-            //Console.WriteLine(empresa.getStock());//stock de heladeras
-
-            empresa.buscarManufactura(manu.getName());
-            empresa.vender(manu, cliente);
+            empresa.asignarALista(cliente);           
+            empresa.mostrarListaManufacturas();      
+            empresa.vender(manu, cliente, 15);
 
 
 /* Se nos ha pedido implementar el sistema de ventas de una empresa--> 
