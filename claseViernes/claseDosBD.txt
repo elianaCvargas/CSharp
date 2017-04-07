@@ -1,0 +1,6 @@
+diagrama de entidad relacion--->
+cuando  la relacion es de n a n creamos una tabla intermedia.
+la tabla intermedia tiene id repetidos  
+
+ALTA,  BAJA,  CONSULTA
+validar que no  se ingrese una receta con el  mismo  nombre (lo  ponemos hacer con  un  count  o  sum (?))

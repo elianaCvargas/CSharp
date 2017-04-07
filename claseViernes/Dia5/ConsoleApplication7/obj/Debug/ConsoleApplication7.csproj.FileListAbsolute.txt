@@ -1,0 +1,8 @@
+c:\users\-c3\documents\visual studio 2012\Projects\Dia5\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\-c3\documents\visual studio 2012\Projects\Dia5\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\-c3\documents\visual studio 2012\Projects\Dia5\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\-c3\documents\visual studio 2012\Projects\Dia5\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\-c3\documents\visual studio 2012\Projects\Dia5\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Alumno\Desktop\Dia5\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Alumno\Desktop\Dia5\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Alumno\Desktop\Dia5\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
