@@ -1,0 +1,4 @@
+run  custom tool a *model.tt, modelContext.tt
+
+autos-->AB y calculos,  dar  baja logica
+recetas-->AB, consultas
